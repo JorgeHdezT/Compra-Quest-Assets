@@ -10,7 +10,14 @@
     "id": 2,
     "nombre": "Jordi Crawler",
     "precio": 500,
-    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Skins/Jordi_crawler.png",
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/compra-quest-assets@main/Skins/Jordi_crawler.png",
     "archivoBD": "Jordi_crawler"
+  },
+  {
+    "id": 3,
+    "nombre": "Angela Frieren",
+    "precio": 500,
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/compra-quest-assets@main/Skins/Angela_frieren.png",
+    "archivoBD": "Angela_frieren"
   }
 ]
