@@ -4,13 +4,13 @@
     "nombre": "Kurama",
     "precio": 500,
     "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Mascotas/Kurama_png.png",
-    "archivoBD": "Kurama"
+    "archivoBD": "Kurama_png"
   },
   {
     "id": 2,
     "nombre": "Pingu",
     "precio": 500,
     "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Mascotas/Pingu_png.png",
-    "archivoBD": "Pingu"
+    "archivoBD": "Pingu_png"
   }
 ]

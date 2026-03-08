@@ -13,12 +13,25 @@
     "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Skins/Jordi_crawler_png.png",
     "archivoBD": "Jordi_crawler"
   },
-  
   {
     "id": 3,
     "nombre": "Angela Frieren",
     "precio": 500,
     "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Skins/Angela_frieren_png.png",
     "archivoBD": "Angela_frieren"
+  },
+  {
+    "id": 4,
+    "nombre": "Angela",
+    "precio": 500,
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Skins/Angela_png.png",
+    "archivoBD": "Angela"
+  },
+  {
+    "id": 5,
+    "nombre": "Jordi",
+    "precio": 500,
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Skins/Jordi_png.png",
+    "archivoBD": "Jordi"
   }
 ]
