@@ -43,8 +43,16 @@
     "id": 6,
     "nombre": "Izone",
     "precio": 500,
-    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Izone/Izone.png",
-    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Izone/Izone.mp3",
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/compra-quest-assets@main/Canciones/Izone/Izone.png",
+    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/compra-quest-assets@main/Canciones/Izone/Izone.mp3",
     "archivoBD": "izone"
+  },
+  {
+    "id": 7,
+    "nombre": "Jujutsu",
+    "precio": 500,
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/compra-quest-assets@main/Canciones/Jujutsu/Jujutsu.png",
+    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/compra-quest-assets@main/Canciones/Jujutsu/Jujutsu.mp3",
+    "archivoBD": "jujutsu"
   }
 ]
