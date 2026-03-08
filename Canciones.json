@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Vigilantes",
+    "precio": 500,
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Vigilantes/Vigilantes.png",
+    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Vigilantes/Vigilantes.mp3",
+    "archivoBD": "vigilantes"
+  },
+  {
+    "id": 2,
+    "nombre": "Juno",
+    "precio": 500,
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Juno/Juno.png",
+    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Juno/Juno.mp3",
+    "archivoBD": "juno"
+  },
+  {
+    "id": 3,
+    "nombre": "Mashle",
+    "precio": 500,
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Mashle/Mashle.png",
+    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Mashle/Mashle.mp3",
+    "archivoBD": "mashle"
+  },
+  {
+    "id": 4,
+    "nombre": "Sakura",
+    "precio": 500,
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Sakura/Sakura.png",
+    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Sakura/Sakura.mp3",
+    "archivoBD": "sakura"
+  },
+  {
+    "id": 5,
+    "nombre": "Miku",
+    "precio": 500,
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Miku/Miku.png",
+    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Miku/Miku.mp3",
+    "archivoBD": "miku"
+  },
+  {
+    "id": 6,
+    "nombre": "Izone",
+    "precio": 500,
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Izone/Izone.png",
+    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Izone/Izone.mp3",
+    "archivoBD": "izone"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "nombre": "Angela Popu",
+    "precio": 500,
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Skins/Angela_popu.png",
+    "archivoBD": "Angela_popu"
+  },
+  {
+    "id": 2,
+    "nombre": "Jordi Crawler",
+    "precio": 500,
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Skins/Jordi_crawler.png",
+    "archivoBD": "Jordi_crawler"
+  }
+]
