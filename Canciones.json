@@ -3,56 +3,56 @@
     "id": 1,
     "nombre": "Vigilantes",
     "precio": 500,
-    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Vigilantes/Vigilantes.png",
-    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Vigilantes/Vigilantes.mp3",
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Canciones/Vigilantes/disco_vigilantes.png",
+    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Canciones/Vigilantes/vigilantes.mp3",
     "archivoBD": "vigilantes"
   },
   {
     "id": 2,
     "nombre": "Juno",
     "precio": 500,
-    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Juno/Juno.png",
-    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Juno/Juno.mp3",
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Canciones/Juno/disco_juno.png",
+    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Canciones/Juno/juno.mp3",
     "archivoBD": "juno"
   },
   {
     "id": 3,
     "nombre": "Mashle",
     "precio": 500,
-    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Mashle/Mashle.png",
-    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Mashle/Mashle.mp3",
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Canciones/Mashle/disco_mashle.png",
+    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Canciones/Mashle/mashle.mp3",
     "archivoBD": "mashle"
   },
   {
     "id": 4,
     "nombre": "Sakura",
     "precio": 500,
-    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Sakura/Sakura.png",
-    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Sakura/Sakura.mp3",
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Canciones/Sakura/disco_sakura.png",
+    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Canciones/Sakura/sakura.mp3",
     "archivoBD": "sakura"
   },
   {
     "id": 5,
     "nombre": "Miku",
     "precio": 500,
-    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Miku/Miku.png",
-    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/tienda-assets@main/Canciones/Miku/Miku.mp3",
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Canciones/Miku/disco_miku.png",
+    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Canciones/Miku/miku.mp3",
     "archivoBD": "miku"
   },
   {
     "id": 6,
     "nombre": "Izone",
     "precio": 500,
-    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/compra-quest-assets@main/Canciones/Izone/Izone.png",
-    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/compra-quest-assets@main/Canciones/Izone/Izone.mp3",
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Canciones/Izone/disco_izone.png",
+    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Canciones/Izone/izone.mp3",
     "archivoBD": "izone"
   },
   {
     "id": 7,
     "nombre": "Jujutsu",
     "precio": 500,
-    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/compra-quest-assets@main/Canciones/Jujutsu/Jujutsu.png",
-    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/compra-quest-assets@main/Canciones/Jujutsu/Jujutsu.mp3",
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Canciones/Jujutsu/disco_jujutsu.png",
+    "audio": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Canciones/Jujutsu/jujutsu.mp3",
     "archivoBD": "jujutsu"
   }
 ]
