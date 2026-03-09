@@ -12,5 +12,12 @@
     "precio": 500,
     "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Mascotas/Pingu_png.png",
     "archivoBD": "Pingu_png"
+  },
+  {
+    "id": 3,
+    "nombre": "Punpun",
+    "precio": 500,
+    "imagen": "https://cdn.jsdelivr.net/gh/jorgehdezt/Compra-Quest-Assets@main/Mascotas/Punpun_png.png",
+    "archivoBD": "Punpun_png"
   }
 ]
